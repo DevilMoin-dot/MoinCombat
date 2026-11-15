@@ -1,0 +1,18 @@
+MoinCombat License
+
+Copyright © 2026 Moin. All rights reserved.
+
+You are allowed to:
+
+- Use MoinCombat on your own worlds and servers.
+- Share the official download link.
+
+You are NOT allowed to:
+
+- Reupload or redistribute the datapack.
+- Claim it as your own work.
+- Sell or monetize the datapack.
+- Publish modified versions without permission.
+
+Author: Moin
+Project: MoinCombat
